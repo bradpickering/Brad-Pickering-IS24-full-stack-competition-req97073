@@ -1,6 +1,6 @@
 # Brad-Pickering-IS24-full-stack-competition-req97073
 
-### API
+## API
 
 In the backend directory run:
   - npm install
