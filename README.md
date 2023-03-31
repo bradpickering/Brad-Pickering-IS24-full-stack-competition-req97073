@@ -8,3 +8,11 @@ In the backend directory run:
 
 The API will run on port 3000
 
+
+## Frontend
+
+In the frontend directory run:
+  - npm install
+  - npm start
+
+The frontend will run on port 3001
